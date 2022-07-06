@@ -1,0 +1,21 @@
+.CardPhoto {
+	width: 300px;
+	height: 374px;
+	box-shadow: 0px 0px 0px 2px rgb(0 0 0 / 45%);
+}
+.cardGlobal {
+	padding: 15px;
+	background-color: white;
+	box-shadow: 0px 1px 5px 4px rgb(0 0 0 / 6%);
+	margin: 20px;
+}
+.cardGlobal a {
+	text-decoration: none;
+}
+.nameText {
+	color: black;
+	font-family: fantasy;
+	font-size: 23px;
+}
+.delete {
+}
